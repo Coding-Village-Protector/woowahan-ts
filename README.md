@@ -18,11 +18,12 @@
 <div align="left">
 
 - 스터디는 주 2회 (월/목 21:00 - 22:00) 진행됩니다.
-- 스터디는 책의 챕터를 기준으로 분류됩니다. 스터디원 모두는 해당 챕터 스터디 진행 전까지 내용을 읽어옵니다.
+- 스터디는 책의 챕터를 기준으로 분류됩니다. 스터디원 모두는 스터디 진행 전까지 해당 챕터를 읽어옵니다.
 - 챕터의 담당자는 스터디 진행 전까지 내용 정리를 진행합니다.
   - 정리본은 markdown으로 작성하고 제목은 담당자의 이름입니다.
-  - 챕터 명으로 만들어진 폴더에 업로드합니다. (ex. [2장] 타입/이성령.md)
+  - 챕터 명으로 만들어진 폴더에 업로드합니다. (ex. [2장] 타입/이성령.md) 그리고 README에 업로드된 정리본을 연결해줍니다.
   - branch : main
+  - commit message : 📚: [2장] 타입 - 이성령
 - 챕터의 담당자를 제외한 나머지 스터디원은 문제를 준비합니다.
   - [GitHub issue](https://github.com/Coding-Village-Protector/woowahan-ts/issues)로 해당 챕터의 label을 적용하여 작성합니다. 문제의 양식은 템플릿을 준수합니다.
   - 문제는 스터디 진행 전날부터 진행 직전까지 등록합니다.
@@ -162,7 +163,7 @@
 <td align="center" width="120"><a href="https://github.com/Stilllee">@Stilllee</a></td>
 <td align="center" width="120"><a href="https://github.com/eeeyooon">@eeeyooon</a></td>
 <td align="center" width="120"><a href="https://github.com/chaehaeun">@chaehaeun</a></td>
-<td align="center" width="120"><a href="https://github.com/lulla-by">@sryung1225</a></td>
+<td align="center" width="120"><a href="https://github.com/sryung1225">@sryung1225</a></td>
 </tr>
 </tbody>
 </table>
