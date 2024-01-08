@@ -51,7 +51,7 @@
 <tr>
 <td align="center">1/8(월)</td>
 <th align="left">[2장] 타입</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%9D%B4%EC%97%90%EC%8A%A4%EB%8D%94.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/labels/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85">문제</a></td>
 </tr>
 <tr>
