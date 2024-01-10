@@ -58,7 +58,7 @@
 <tr>
 <td align="center">1/10(수)</td>
 <th align="left">[3장] 고급 타입</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B3%EC%9E%A5%5D%20%EA%B3%A0%EA%B8%89%20%ED%83%80%EC%9E%85/%EC%9D%B4%EC%98%88%EC%86%94.md">정리</a></td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B3%EC%9E%A5%5D+%EA%B3%A0%EA%B8%89+%ED%83%80%EC%9E%85%22+is%3Aclosed">문제</a></td>
 <td>이예솔</td>
 </tr>
