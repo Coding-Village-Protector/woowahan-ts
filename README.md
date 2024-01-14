@@ -68,7 +68,7 @@
 <tr>
 <td align="center">1/15(월)</td>
 <th align="left">[4장] 타입 확장하기・좁히기</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B4%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0%C2%B7%EC%A2%81%ED%9E%88%EA%B8%B0/%EA%B0%95%EC%A7%80%EC%9C%A4.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B4%EC%9E%A5%5D+%ED%83%80%EC%9E%85+%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0+%C2%B7+%EC%A2%81%ED%9E%88%EA%B8%B0%22+is%3Aclosed">문제</a></td>
 <td>강지윤</td>
 </tr>
