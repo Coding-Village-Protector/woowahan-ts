@@ -77,7 +77,7 @@
 <th align="left">[5장] 타입 활용하기</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B5%EC%9E%A5%5D+%ED%83%80%EC%9E%85+%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%22+is%3Aclosed">문제</a></td>
-<td>채하은</td>
+<td>이성령</td>
 </tr>
 <tr>
 <td align="center" colspan="5">3주차 (1/22 - 1/28)</td>
@@ -87,14 +87,14 @@
 <th align="left">[6장] 타입스크립트 컴파일</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B6%EC%9E%A5%5D+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8+%EC%BB%B4%ED%8C%8C%EC%9D%BC%22+is%3Aclosed">문제</a></td>
-<td>이성령</td>
+<td>이에스더</td>
 </tr>
 <tr>
 <td align="center">1/25(목)</td>
 <th align="left">[7장] 비동기 호출</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B7%EC%9E%A5%5D+%EB%B9%84%EB%8F%99%EA%B8%B0+%ED%98%B8%EC%B6%9C%22+is%3Aclosed">문제</a></td>
-<td>이에스더</td>
+<td>이예솔</td>
 </tr>
 <tr>
 <td align="center" colspan="5">4주차 (1/28 - 2/4)</td>
@@ -104,14 +104,14 @@
 <th align="left">[8장] JSX에서 TSX로</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B8%EC%9E%A5%5D+JSX%EC%97%90%EC%84%9C+TSX%EB%A1%9C%22+is%3Aclosed">문제</a></td>
-<td>이예솔</td>
+<td>강지윤</td>
 </tr>
 <tr>
 <td align="center">2/1(목)</td>
 <th align="left">[9장] 훅</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B9%EC%9E%A5%5D+%ED%9B%85%22+is%3Aclosed">문제</a></td>
-<td>강지윤</td>
+<td>이성령</td>
 </tr>
 <tr>
 <td align="center" colspan="5">5주차 (2/5 - 2/11)</td>
@@ -121,14 +121,14 @@
 <th align="left">[10장] 상태 관리</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B10%EC%9E%A5%5D+%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC%22+is%3Aclosed">문제</a></td>
-<td>채하은</td>
+<td>이예솔</td>
 </tr>
 <tr>
 <td align="center">2/5(월)</td>
 <th align="left">[11장] CSS-in-JS</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B11%EC%9E%A5%5D+CSS-in-JS%22+is%3Aclosed">문제</a></td>
-<td>채하은</td>
+<td>이예솔</td>
 </tr>
 <tr>
 <td align="center">2/8(목)</td>
@@ -145,7 +145,7 @@
 <th align="left">[13장] 타입스크립트와 객체 지향</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B13%EC%9E%A5%5D+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80+%EA%B0%9D%EC%B2%B4+%EC%A7%80%ED%96%A5%22+is%3Aclosed">문제</a></td>
-<td>- </td>
+<td>이예솔</td>
 </tr>
 </tbody>
 </table>
@@ -160,21 +160,18 @@
 <td align="center"><img src="./assets/짱구.jpg" width="120" /></td>
 <td align="center"><img src="./assets/철수.jpg" width="120" /></td>
 <td align="center"><img src="./assets/유리.jpg" width="120" /></td>
-<td align="center"><img src="./assets/훈이.jpg" width="120" /></td>
 <td align="center"><img src="./assets/맹구.jpg" width="120" /></td>
 </tr>
 <tr>
 <th align="center">이예솔</th>
 <th align="center">이에스더</th>
 <th align="center">강지윤</th>
-<th align="center">채하은</th>
 <th align="center">이성령</th>
 </tr>
 <tr>
 <td align="center" width="120"><a href="https://github.com/lulla-by">@lulla-by</a></td>
 <td align="center" width="120"><a href="https://github.com/Stilllee">@Stilllee</a></td>
 <td align="center" width="120"><a href="https://github.com/eeeyooon">@eeeyooon</a></td>
-<td align="center" width="120"><a href="https://github.com/chaehaeun">@chaehaeun</a></td>
 <td align="center" width="120"><a href="https://github.com/sryung1225">@sryung1225</a></td>
 </tr>
 </tbody>
