@@ -145,7 +145,7 @@
 <th align="left">[13장] 타입스크립트와 객체 지향</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B13%EC%9E%A5%5D+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80+%EA%B0%9D%EC%B2%B4+%EC%A7%80%ED%96%A5%22+is%3Aclosed">문제</a></td>
-<td>이예솔</td>
+<td>강지윤</td>
 </tr>
 </tbody>
 </table>
