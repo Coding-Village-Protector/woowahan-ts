@@ -161,18 +161,21 @@
 <td align="center"><img src="./assets/철수.jpg" width="120" /></td>
 <td align="center"><img src="./assets/유리.jpg" width="120" /></td>
 <td align="center"><img src="./assets/맹구.jpg" width="120" /></td>
+<td align="center"><img src="./assets/원장님.jpg" width="120" /></td>
 </tr>
 <tr>
 <th align="center">이예솔</th>
 <th align="center">이에스더</th>
 <th align="center">강지윤</th>
 <th align="center">이성령</th>
+<th align="center">채하은</th>
 </tr>
 <tr>
 <td align="center" width="120"><a href="https://github.com/lulla-by">@lulla-by</a></td>
 <td align="center" width="120"><a href="https://github.com/Stilllee">@Stilllee</a></td>
 <td align="center" width="120"><a href="https://github.com/eeeyooon">@eeeyooon</a></td>
 <td align="center" width="120"><a href="https://github.com/sryung1225">@sryung1225</a></td>
+<td align="center" width="120"><a href="https://github.com/chaehaeun">@chaehaeun</a></td>
 </tr>
 </tbody>
 </table>
