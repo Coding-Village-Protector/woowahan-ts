@@ -75,7 +75,7 @@
 <tr>
 <td align="center">1/18(목)</td>
 <th align="left">[5장] 타입 활용하기</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B5%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%9D%B4%EC%84%B1%EB%A0%B9.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B5%EC%9E%A5%5D+%ED%83%80%EC%9E%85+%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%22+is%3Aclosed">문제</a></td>
 <td>이성령</td>
 </tr>
