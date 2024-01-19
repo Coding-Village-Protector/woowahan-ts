@@ -85,7 +85,7 @@
 <tr>
 <td align="center">1/22(월)</td>
 <th align="left">[6장] 타입스크립트 컴파일</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B6%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%BB%B4%ED%8C%8C%EC%9D%BC/%EC%9D%B4%EC%97%90%EC%8A%A4%EB%8D%94.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B6%EC%9E%A5%5D+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8+%EC%BB%B4%ED%8C%8C%EC%9D%BC%22+is%3Aclosed">문제</a></td>
 <td>이에스더</td>
 </tr>
