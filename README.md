@@ -90,9 +90,9 @@
 <td>이에스더</td>
 </tr>
 <tr>
-<td align="center">1/25(목)</td>
+<td align="center">1/26(금)</td>
 <th align="left">[7장] 비동기 호출</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B7%EC%9E%A5%5D%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%98%B8%EC%B6%9C/%EC%9D%B4%EC%98%88%EC%86%94.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B7%EC%9E%A5%5D+%EB%B9%84%EB%8F%99%EA%B8%B0+%ED%98%B8%EC%B6%9C%22+is%3Aclosed">문제</a></td>
 <td>이예솔</td>
 </tr>
