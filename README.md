@@ -18,18 +18,19 @@
 <div align="left">
 
 - 스터디는 주 2회 (월/목 21:00 - 22:00) 진행됩니다.
-- 스터디는 책의 챕터를 기준으로 분류됩니다. 스터디원 모두는 스터디 진행 전까지 해당 챕터를 읽어옵니다.
+- 스터디는 책의 챕터를 기준으로 분류됩니다. 스터디원 모두는 스터디 진행 전까지 해당되는 챕터를 읽어옵니다.
 - 챕터의 담당자는 스터디 진행 전까지 내용 정리를 진행합니다.
   - 정리본은 markdown으로 작성하고 제목은 담당자의 이름입니다.
   - 챕터 명으로 만들어진 폴더에 업로드합니다. (ex. [2장] 타입/신짱구.md) 그리고 README에 업로드된 정리본을 연결해줍니다.
   - branch : main
   - commit message : 📚: [2장] 타입 - 신짱구
 - 챕터의 담당자를 제외한 나머지 스터디원은 문제를 준비합니다.
-  - [GitHub issue](https://github.com/Coding-Village-Protector/woowahan-ts/issues)로 해당 챕터의 label을 적용하여 작성합니다. 문제의 양식은 템플릿을 준수합니다.
+  - [GitHub issue](https://github.com/Coding-Village-Protector/woowahan-ts/issues)로 해당 챕터의 label을 적용하여 문제를 작성합니다. 양식은 제공되는 템플릿을 준수합니다.
   - 문제는 스터디 진행 전날부터 진행 직전까지 등록합니다.
-  - 문제 출제자를 제외한 나머지 스터디원은 문제에 대한 답안을 미리 작성하여도 무방합니다.
-- 스터디를 진행하며 다 함께 정리본을 읽고 질의응답을 30분, 그리고 출제된 문제에 대한 답안에 대해 30분간 논의합니다.
-- 각 답안에 대한 논의가 끝나면 출제자는 issue에 최종 답안을 답변으로 작성한 뒤 issue를 종료시킵니다.
+  - 문제 출제자를 제외한 나머지 스터디원은 문제가 등록된 시점부터 스터디 진행 30분 시점까지 문제에 대한 답안을 답변으로 작성합니다.
+- 스터디는 1시간 동안 진행됩니다.
+  - 전반 30분 동안 다 함께 정리본을 읽고 챕터에 대한 질의응답을 진행합니다.
+  - 후반 30분 동안 출제된 문제와 답변을 확인합니다. 출제자는 issue에 마지막 순서로 최종 답안을 작성하면서 해당 issue를 종료시킵니다.
 
 </div>
 <br />
@@ -39,14 +40,14 @@
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="5">0주차 (1/3 - 1/7)</td>
+<td align="center" colspan="5">0주차</td>
 </tr>
 <tr>
 <td align="center">1/3(수)</td>
 <td colspan="4">OT</td>
 </tr>
 <tr>
-<td align="center" colspan="5">1주차 (1/8 - 1/14)</td>
+<td align="center" colspan="5">1주차</td>
 </tr>
 <tr>
 <td align="center">1/8(월)</td>
@@ -63,7 +64,7 @@
 <td>이예솔</td>
 </tr>
 <tr>
-<td align="center" colspan="5">2주차 (1/15 - 1/21)</td>
+<td align="center" colspan="5">2주차</td>
 </tr>
 <tr>
 <td align="center">1/15(월)</td>
@@ -80,7 +81,7 @@
 <td>이성령</td>
 </tr>
 <tr>
-<td align="center" colspan="5">3주차 (1/22 - 1/28)</td>
+<td align="center" colspan="5">3주차</td>
 </tr>
 <tr>
 <td align="center">1/22(월)</td>
@@ -97,7 +98,7 @@
 <td>이예솔</td>
 </tr>
 <tr>
-<td align="center" colspan="5">4주차 (1/28 - 2/4)</td>
+<td align="center" colspan="5">4주차</td>
 </tr>
 <tr>
 <td align="center">1/29(월)</td>
@@ -114,7 +115,7 @@
 <td>이성령</td>
 </tr>
 <tr>
-<td align="center" colspan="5">5주차 (2/5 - 2/11)</td>
+<td align="center" colspan="5">5주차</td>
 </tr>
 <tr>
 <td align="center">2/5(월)</td>
@@ -138,7 +139,7 @@
 <td>이성령</td>
 </tr>
 <tr>
-<td align="center" colspan="5">6주차 (2/12)</td>
+<td align="center" colspan="5">6주차</td>
 </tr>
 <tr>
 <td align="center">2/12(월)</td>
