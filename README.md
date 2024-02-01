@@ -110,7 +110,7 @@
 <tr>
 <td align="center">2/1(목)</td>
 <th align="left">[9장] 훅</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B9%EC%9E%A5%5D%20%ED%9B%85/%EC%9D%B4%EC%84%B1%EB%A0%B9.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B9%EC%9E%A5%5D+%ED%9B%85%22+is%3Aclosed">문제</a></td>
 <td>이성령</td>
 </tr>
