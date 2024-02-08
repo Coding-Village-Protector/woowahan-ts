@@ -134,7 +134,7 @@
 <tr>
 <td align="center">2/8(목)</td>
 <th align="left">[12장] 타입스크립트 프로젝트 관리</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/blob/main/%5B12%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC/%EC%9D%B4%EC%84%B1%EB%A0%B9.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/woowahan-ts/issues?q=label%3A%22%5B12%EC%9E%A5%5D+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EA%B4%80%EB%A6%AC%22+is%3Aclosed">문제</a></td>
 <td>이성령</td>
 </tr>
