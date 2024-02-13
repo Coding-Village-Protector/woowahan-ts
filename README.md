@@ -6,7 +6,7 @@
 | ------------------------------------------------------ |
 
 ![STUDY_START](https://img.shields.io/badge/START-2024--01--03-blue)
-![STUDY_END](https://img.shields.io/badge/END-2024--02--12-yellow)
+![STUDY_END](https://img.shields.io/badge/END-2024--02--13-yellow)
 
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black)
